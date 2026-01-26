@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+html, body {
+  @apply bg-brand-dark text-white font-inter;
+}
+
+h1, h2, h3, h4 {
+  @apply font-geist;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
+
+a:hover {
+  @apply text-brand-success;
+}
+
+/* Buttons */
+.btn-primary {
+  @apply bg-brand-accent text-black px-6 py-3 rounded-lg font-semibold hover:bg-brand-success transition;
+}
+
+.btn-secondary {
+  @apply border border-brand-accent px-6 py-3 rounded-lg font-semibold hover:bg-brand-accent hover:text-black transition;
+}
+
+/* Section spacing */
+section {
+  @apply py-20;
+}
