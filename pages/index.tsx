@@ -16,8 +16,8 @@ export default function Home() {
         <meta name="description" content="AI-native design & engineering studio crafting scalable SaaS solutions for visionary founders. Specializing in Next.js, MCP, and Automation." />
         
         {/* 5. OPEN GRAPH IMAGE (og-image.jpg) */}
-        <meta property="og:title" content="Sazid Hossain | Trade.ju45th" />
-        <meta property="og:description" content="Have a Cherish and Have It. AI-native design & engineering studio." />
+        <meta property="og:title" content="Sazid Hossain | AI-Native Design & Engineering Studio" />
+        <meta property="og:description" content="AI-native design & engineering studio crafting scalable SaaS solutions for visionary founders." />
         <meta property="og:image" content="/images/og-image.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.saazidhossain.com" />

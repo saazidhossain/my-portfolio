@@ -1,3 +1,5 @@
+'use client';
+
 const posts = [
   {
     title: "AI-native SaaS Design Systems",

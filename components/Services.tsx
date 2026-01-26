@@ -1,3 +1,5 @@
+'use client';
+
 import { Zap, Layout, Box } from 'lucide-react';
 
 const services = [

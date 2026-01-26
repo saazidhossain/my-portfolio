@@ -1,3 +1,5 @@
+'use client';
+
 export default function Contact() {
   return (
     <section className="py-20 bg-white" id="contact">
@@ -11,7 +13,7 @@ export default function Contact() {
           <button type="submit" className="bg-brand-accent text-black px-6 py-3 rounded-lg font-semibold hover:bg-brand-success transition">Send Message</button>
         </form>
         <div className="mt-8">
-          <p>Email: <a href="mailto:hello@trade.ju45th.com" className="text-brand-accent">hello@trade.ju45th.com</a></p>
+          <p>Email: <a href="mailto:hello@saazidhossain.com" className="text-brand-accent">hello@saazidhossain.com</a></p>
           <p>Schedule: <a href="https://cal.com/saazidhossain" className="text-brand-accent">cal.com/saazidhossain</a></p>
         </div>
       </div>

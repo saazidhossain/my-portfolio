@@ -1,9 +1,11 @@
+'use client';
+
 export default function Hero() {
   return (
     <section className="bg-brand-dark text-white py-24">
       <div className="max-w-6xl mx-auto px-6 text-center">
-        <h1 className="text-5xl font-bold mb-4">Have a Cherish and Have It</h1>
-        <p className="text-xl mb-8">AI-native design & engineering studio for SaaS founders</p>
+        <h1 className="text-5xl font-bold mb-4">AI-Native Design & Engineering Studio</h1>
+        <p className="text-xl mb-8">Crafting scalable SaaS solutions for visionary founders</p>
         <div className="flex justify-center gap-4">
           <a
             href="https://cal.com/saazidhossain"
